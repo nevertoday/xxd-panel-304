@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 304｜Constructivist Totem: keeps the photo and distils its subject's spirit into one experimental abstract totem rather than a picture of it — a few circles, rectangles and irregular colour blocks set against free gestural lines and diagrammatic traces, organic forms meeting geometric order, with deliberate overlaps, offsets and cut-off parts that look accidental but are controlled. Soft neutral ground with one or two strong accents such as deep blue, vermilion, ink green, warm orange or soft pink, a single central symbol and wide whitespace. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-304 or asks for a neo-constructivist, experimental or poetic abstract identity symbol from a photo.",
+  "short_description": "构成图腾：把照片的气质压成一枚几何块面与手势细线对峙的实验抽象图腾",
+  "zh-CN": {
+    "name": "构成图腾",
+    "tagline": "保留原照片，把主体的气质压成一枚有机与几何相互拉扯的抽象图腾。",
+    "look": "照片保持原样，设计部分不直接画对象，而是用几块圆形、矩形和不规则色块，加上一两条自由的手势细线或类似图解的轨迹，暗示人、建筑、自然或某种情绪。块面之间允许遮挡、错位和切断，看似随手，其实比例很准。底色是柔和的中性色，只配一两种强调色，比如深蓝、朱红、墨绿、暖橙或柔粉。整张设计只有一个核心符号和大片留白，基本不靠文字。",
+    "traits": ["新构成", "有机对几何", "手势细线", "安静奢侈", "单一图腾"],
+    "good": [
+      "有明显姿态或节奏的主体：舞者、弯腰的树、一组楼梯、海浪拍岸",
+      "想表达情绪或气质而不是记录外形的照片：独处的人、空房间、黄昏的屋顶",
+      "想做成香氛、画廊、建筑事务所或杂志标识的照片"
+    ],
+    "poor": [
+      "需要看出具体是谁、是什么的照片：证件照、商品图、宠物写真",
+      "想要完整人物头像、写实插画或复杂场景",
+      "想要鲜艳童趣、渐变科技感或卡通 Logo 的效果"
+    ]
+  },
+  "en": {
+    "name": "Constructivist Totem",
+    "tagline": "Keeps your photo and presses the subject's mood into one abstract totem where organic and geometric pull at each other.",
+    "look": "The photo stays as it is. The design does not depict the object; a few circles, rectangles and irregular colour blocks, plus one or two free gestural lines or diagram-like traces, hint at a person, a building, nature or a feeling. Shapes may overlap, shift and cut each other off, which looks casual but is precisely proportioned. A soft neutral ground carries only one or two accents such as deep blue, vermilion, ink green, warm orange or soft pink. The whole design is one central symbol in wide whitespace and leans very little on text.",
+    "traits": ["Neo-constructivism", "Organic vs geometric", "Gestural lines", "Quiet luxury", "Single totem"],
+    "good": [
+      "Subjects with a strong posture or rhythm: a dancer, a leaning tree, a flight of stairs, waves hitting the shore",
+      "Photos about a mood more than an appearance: someone alone, an empty room, rooftops at dusk",
+      "Photos you want as a mark for a fragrance, gallery, architecture studio or magazine"
+    ],
+    "poor": [
+      "Photos where you must tell exactly who or what it is: ID photos, product shots, pet portraits",
+      "Requests for a full head-and-shoulders portrait, realistic illustration or a complex scene",
+      "Wanting bright childlike colour, techy gradients or a cartoon logo"
+    ]
+  },
+  "ja": {
+    "name": "構成主義トーテム",
+    "tagline": "写真はそのままに、主役の気配を有機と幾何が引き合う抽象トーテムに凝縮します。",
+    "look": "写真はそのまま残し、デザイン側は対象を直接描きません。いくつかの円、長方形、不規則な色面に、一、二本の自由な手の線や図解のような軌跡を重ね、人物、建物、自然、あるいは感情をほのめかします。形どうしは重なり、ずれ、途中で切れてもよく、偶然に見えて比率は正確です。地は柔らかなニュートラルカラーで、深い青、朱、深緑、暖かいオレンジ、淡いピンクなどの強調色を一、二色だけ使います。デザイン全体は中心のシンボルひとつと大きな余白だけで、文字にはほとんど頼りません。",
+    "traits": ["ネオ構成主義", "有機と幾何", "ジェスチャーの線", "静かな上質さ", "ひとつのトーテム"],
+    "good": [
+      "姿勢やリズムがはっきりした主役：ダンサー、傾いた木、続く階段、打ち寄せる波",
+      "見た目より気分を伝えたい写真：ひとりの人、空っぽの部屋、夕暮れの屋根",
+      "香水、ギャラリー、建築事務所、雑誌のマークにしたい写真"
+    ],
+    "poor": [
+      "誰か、何かを正確に見分けたい写真：証明写真、商品写真、ペットの記念写真",
+      "人物の顔写真のような絵、写実的なイラスト、複雑な場面を求める場合",
+      "原色の子どもっぽさ、テック系のグラデーション、キャラクターロゴを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "구성 토템",
+    "tagline": "원래 사진은 그대로 두고, 주인공의 기운을 유기적인 것과 기하학이 서로 당기는 추상 토템으로 압축합니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 대상을 직접 그리지 않습니다. 원, 사각형, 불규칙한 색면 몇 개에 자유로운 손동작 선이나 도해 같은 궤적을 한두 줄 더해 사람, 건물, 자연, 혹은 감정을 암시합니다. 면들은 겹치고 어긋나고 잘려도 되며, 우연처럼 보이지만 비율은 정확합니다. 바탕은 부드러운 중성색이고, 짙은 파랑, 주홍, 먹빛 초록, 따뜻한 주황, 연분홍 같은 강조색은 한두 가지만 씁니다. 디자인 전체는 중심 심벌 하나와 넓은 여백뿐이며 글자에는 거의 기대지 않습니다.",
+    "traits": ["신구성주의", "유기 대 기하", "제스처 선", "조용한 고급감", "단일 토템"],
+    "good": [
+      "자세나 리듬이 뚜렷한 주인공: 무용수, 기울어진 나무, 이어진 계단, 부서지는 파도",
+      "겉모습보다 분위기를 전하고 싶은 사진: 혼자 있는 사람, 빈 방, 해 질 녘 지붕",
+      "향수, 갤러리, 건축사무소, 잡지의 마크로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "누구인지, 무엇인지 정확히 알아봐야 하는 사진: 증명사진, 제품 사진, 반려동물 기념사진",
+      "인물 얼굴 그림, 사실적인 일러스트, 복잡한 장면을 원하는 경우",
+      "원색의 아이 같은 느낌, 테크 그라데이션, 캐릭터 로고를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "طوطم بنائي",
+    "tagline": "يحتفظ بصورتك ويكثّف روح عنصرها في طوطم مجرّد يتجاذب فيه العضوي والهندسي.",
+    "look": "تبقى الصورة كما هي، ولا يصوّر التصميم الشيء مباشرة؛ بل توحي بضع دوائر ومستطيلات وبقع لونية غير منتظمة، مع خط أو خطين حرّين بإيماءة اليد أو آثار تشبه الرسوم التوضيحية، بشخص أو مبنى أو طبيعة أو شعور. يمكن أن تتداخل الأشكال وتنزاح ويقطع بعضها بعضاً، فتبدو عفوية مع أن نِسبها دقيقة. الخلفية بلون محايد ناعم، ومعها لون أو لونان بارزان فقط مثل الأزرق الداكن أو القرمزي أو الأخضر الحبري أو البرتقالي الدافئ أو الوردي الناعم. التصميم كله رمز مركزي واحد في فراغ واسع، ولا يعتمد على النص إلا قليلاً.",
+    "traits": ["بنائية جديدة", "العضوي مقابل الهندسي", "خطوط إيمائية", "فخامة هادئة", "طوطم واحد"],
+    "good": [
+      "عناصر ذات وضعية أو إيقاع واضح: راقصة، شجرة مائلة، درج متتابع، موج يضرب الشاطئ",
+      "صور تعبّر عن مزاج أكثر من الشكل: شخص وحيد، غرفة فارغة، أسطح عند الغروب",
+      "صور تريدها علامةً لعطر أو معرض فني أو مكتب معماري أو مجلة"
+    ],
+    "poor": [
+      "صور يجب أن يُعرف فيها بالضبط من الشخص أو ما الشيء: صور الهوية، صور المنتجات، صور الحيوانات الأليفة",
+      "طلب بورتريه كامل للوجه أو رسم واقعي أو مشهد معقّد",
+      "الرغبة في ألوان طفولية صارخة أو تدرّجات تقنية أو شعار كرتوني"
+    ]
+  }
+}

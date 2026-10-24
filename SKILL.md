@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-304
-description: "Create XXD Panel 304 raster artwork: a faithful photograph paired with one experimental neo-constructivist totem, organic form against geometry and a few gestural lines. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-304 or asks for this 构成图腾 style."
+description: "XXD Panel 304｜Constructivist Totem: keeps the photo and distils its subject's spirit into one experimental abstract totem rather than a picture of it — a few circles, rectangles and irregular colour blocks set against free gestural lines and diagrammatic traces, organic forms meeting geometric order, with deliberate overlaps, offsets and cut-off parts that look accidental but are controlled. Soft neutral ground with one or two strong accents such as deep blue, vermilion, ink green, warm orange or soft pink, a single central symbol and wide whitespace. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-304 or asks for a neo-constructivist, experimental or poetic abstract identity symbol from a photo."
 ---
 
 # XXD Panel 304
